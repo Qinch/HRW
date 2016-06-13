@@ -1,6 +1,6 @@
 #### 用于芯片热分析的混合随机行走算法
 ### the Hybrid Random Walk method for 3-D thermal analysis of IC
-![thermal model ](./HRW/mode.png)
+![model](/HRW/model.png)
 
 
 The MIT License (MIT)
